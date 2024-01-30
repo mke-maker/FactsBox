@@ -1,2 +1,8 @@
  Pin				Function
- 
+5        sw 0
+0        sw 1
+4        sw 2
+13       momentary pb
+SDA/SCL  -DAC, PIXEL, SCREEN, flash memory
+
+
