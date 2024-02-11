@@ -1,0 +1,12 @@
+sw		FN
+0			color
+1			number
+2			strategy
+3			weather
+4			tune
+5			place
+6			verb
+7			wiki title
+
+
+apparently I don't need to add versionsd
