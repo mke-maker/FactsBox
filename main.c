@@ -14,6 +14,7 @@ init();
 
 if pushbutton pressed //need debounce
 random=get_random();
+selection=(a<<b)|(c<<d)|(e<<f);
 switch selection //need debounce/interrupts here
 case 0;
 color(random);
