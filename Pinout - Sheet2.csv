@@ -1,0 +1,21 @@
+Pin ,name,function on board,factsbox
+1,PC15,osc,osc
+2,VDD,,VDD
+3,VSS,,VSS
+4,RST,user button,reset
+5,PA0,,esp
+6,PA1,,esp
+7,PA2,Grove usart2 tx,LED
+8,PA3,Grove usare 2 rx,SPEAKER
+9,PA4,lcd nss,
+10,PA5,lcd spi skc,
+11,PA6,lcd spi miso,
+12,PA7,lcd spi mosi,button
+13,PA8,joysitk,switch 0
+14,PA11,vcp usart 1 tx,switch 1
+15,PA12,vcp usart 1 rx,switch 2
+16,PA13,swd,swd
+17,P14,swd clc,swd
+18,PB6,led,"I2c (old display, adc, memory)"
+19,PB7,,"I2c (old display, adc, memory)"
+20,PC14,,osc
